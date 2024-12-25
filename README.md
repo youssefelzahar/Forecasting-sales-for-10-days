@@ -58,12 +58,7 @@ The dataset used for this project contains:
    cd Forecasting-sales-for-10-days
    ```
 
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch the Jupyter Notebook or Python script:
+3. Launch the Jupyter Notebook or Python script:
    ```bash
    jupyter notebook
    ```
